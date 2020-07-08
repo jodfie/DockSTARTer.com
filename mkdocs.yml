@@ -152,3 +152,4 @@ nav:
   - Overrides:
     - "overrides/introduction.md"
     - "overrides/nginxproxymanager.md"
+    - "overrides/youtube-dl.md"
